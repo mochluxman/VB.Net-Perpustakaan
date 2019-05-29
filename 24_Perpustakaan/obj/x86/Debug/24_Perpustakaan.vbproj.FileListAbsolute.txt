@@ -1,0 +1,27 @@
+C:\Users\Lion of Informatics\AppData\Local\Temporary Projects\24_Perpustakaan\bin\Debug\24_Perpustakaan.exe
+C:\Users\Lion of Informatics\AppData\Local\Temporary Projects\24_Perpustakaan\bin\Debug\24_Perpustakaan.pdb
+C:\Users\Lion of Informatics\AppData\Local\Temporary Projects\24_Perpustakaan\bin\Debug\24_Perpustakaan.xml
+C:\Users\Lion of Informatics\AppData\Local\Temporary Projects\24_Perpustakaan\obj\x86\Debug\_24_Perpustakaan.Form1.resources
+C:\Users\Lion of Informatics\AppData\Local\Temporary Projects\24_Perpustakaan\obj\x86\Debug\_24_Perpustakaan.Resources.resources
+C:\Users\Lion of Informatics\AppData\Local\Temporary Projects\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.vbproj.GenerateResource.Cache
+C:\Users\Lion of Informatics\AppData\Local\Temporary Projects\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.exe
+C:\Users\Lion of Informatics\AppData\Local\Temporary Projects\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.xml
+C:\Users\Lion of Informatics\AppData\Local\Temporary Projects\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.pdb
+E:\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.exe
+E:\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.xml
+E:\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.pdb
+E:\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\_24_Perpustakaan.Form1.resources
+E:\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\_24_Perpustakaan.Resources.resources
+E:\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.vbproj.GenerateResource.Cache
+E:\24_Perpustakaan\24_Perpustakaan\bin\Debug\24_Perpustakaan.exe
+E:\24_Perpustakaan\24_Perpustakaan\bin\Debug\24_Perpustakaan.pdb
+E:\24_Perpustakaan\24_Perpustakaan\bin\Debug\24_Perpustakaan.xml
+E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.exe
+E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.xml
+E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.pdb
+E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\bin\Debug\24_Perpustakaan.exe
+E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\bin\Debug\24_Perpustakaan.pdb
+E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\bin\Debug\24_Perpustakaan.xml
+E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\_24_Perpustakaan.Form1.resources
+E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\_24_Perpustakaan.Resources.resources
+E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.vbproj.GenerateResource.Cache
