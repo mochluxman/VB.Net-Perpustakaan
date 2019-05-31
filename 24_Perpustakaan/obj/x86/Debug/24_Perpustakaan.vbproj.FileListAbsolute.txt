@@ -25,3 +25,4 @@ E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\bin\
 E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\_24_Perpustakaan.Form1.resources
 E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\_24_Perpustakaan.Resources.resources
 E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\24_Perpustakaan.vbproj.GenerateResource.Cache
+E:\School Project\Produktif\XI\Visual Basic\24_Perpustakaan\24_Perpustakaan\obj\x86\Debug\_24_Perpustakaan.Form2.resources
